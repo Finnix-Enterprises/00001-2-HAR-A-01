@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : D:\GITHUB\GIT_HUB\Finnix\00001-2-HAR-A-01\Altium\00001-2-HAR-A-01\PCB\PCB-00001-A-01.PcbDoc
-Date     : 27-09-2024
-Time     : 03:03:28
+PCB File : D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\00001-2-HAR-A-01\PCB\PCB-00001-A-01.PcbDoc
+Date     : 28-09-2024
+Time     : 00:46:49
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
@@ -49,16 +49,12 @@ Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "X" (-19.171mm,-43.001mm) on Top Layer 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "X" (-19.171mm,-47mm) on Bottom Layer 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "X" (-19.171mm,-51mm) on Bottom Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Text "X" (-19.257mm,-39.098mm) on Top Overlay 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
