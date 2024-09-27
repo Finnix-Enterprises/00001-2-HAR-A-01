@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=POWER_SIM Pin=U8-2
+Removed Pin From Net: NetName=SIM_RST Pin=U8-3
+Removed Pin From Net: NetName=ESP_TX2_SIM Pin=U8-4
+Removed Pin From Net: NetName=ESP_RX2_SIM Pin=U8-5
+Removed Pin From Net: NetName=DGND Pin=U8-6
+Removed Member From Class: ClassName=U_SCH-00001-AC-01 Member=U8

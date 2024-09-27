@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=LIVE_OUT Pin=J3-1
+Removed Pin From Net: NetName=NEU_1 Pin=J3-2
+Change Component Footprint: Designator=J2 Old Footprint=PHOENIX_1984617 New Footprint=CUI_TB003-500-P02BE
+Change Component Footprint: Designator=J3 Old Footprint=PHOENIX_1984617 New Footprint=CUI_TB003-500-P02BE
+Change Component Comment : Designator=J2 Old Comment=1984617 New Comment=TB003-500-P02BE
+Change Component Comment : Designator=J3 Old Comment=1984617 New Comment=TB003-500-P02BE
+Change component parameters: Designator = "J2" ("J2"); Footprint = "PHOENIX_1984617"; UniqueID = "\WTRNQGEK\USLWKCZZ\HPOEJYEL" ("\WTRNQGEK\USLWKCZZ\HPOEJYEL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices/TB003-500-P02BE/10064085"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date drawn"; Value = "26/09/24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1 Part no."; Value = "102-6161-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drawn by"; Value = "Varun Chakravarthy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part no."; Value = "TB003-500-P02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "?29.34000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price (Quantity)"; Value = "?29.34000(100+)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference(datasheet)"; Value = "https://www.sameskydevices.com/product/resource/tb003-500.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TERMINAL BLOCK, SCREW TYPE, 5.00"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "PHOENIX_1984617"; UniqueID = "\WTRNQGEK\USLWKCZZ\COWGXICF" ("\WTRNQGEK\USLWKCZZ\COWGXICF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices/TB003-500-P02BE/10064085"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date drawn"; Value = "26/09/24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1 Part no."; Value = "102-6161-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drawn by"; Value = "Varun Chakravarthy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Same Sky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part no."; Value = "TB003-500-P02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "?29.34000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price (Quantity)"; Value = "?29.34000(100+)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference(datasheet)"; Value = "https://www.sameskydevices.com/product/resource/tb003-500.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "277-1721-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TERMINAL BLOCK, SCREW TYPE, 5.00"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NEU_1 Pin=J3-1
+Added Pin To Net: NetName=LIVE_OUT Pin=J3-2

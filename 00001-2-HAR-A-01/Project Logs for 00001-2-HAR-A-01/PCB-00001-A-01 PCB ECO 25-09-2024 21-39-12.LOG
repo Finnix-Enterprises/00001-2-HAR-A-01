@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=POWER_SIM Pin=U8-2
+Added Pin To Net: NetName=SIM_RST Pin=U8-3
+Added Pin To Net: NetName=ESP_TX2_SIM Pin=U8-4
+Added Pin To Net: NetName=ESP_RX2_SIM Pin=U8-5
+Added Pin To Net: NetName=DGND Pin=U8-6
