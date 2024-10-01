@@ -1,0 +1,17 @@
+Added Component: Designator=U8(SIM800L-CORE)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.alibaba.com/product-detail/Smallest-GSM-GPRS-Module-Quad-Band_60819714360.html?spm=a2700.7724857.0.0.28ae22d6Oz3Vcz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date drawn"; Value = "3/9/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Alibaba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dranw by"; Value = "Varun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SIMCOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no."; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (Quantity)"; Value = "?100 (100+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference(datasheet)"; Value = "https://cdn-shop.adafruit.com/datasheets/sim800_series_at_command_manual_v1.01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_SCH-00001-AC-01 Member=Component U8 SIM800L
