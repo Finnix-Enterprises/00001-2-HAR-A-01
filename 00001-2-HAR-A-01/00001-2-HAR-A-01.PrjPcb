@@ -186,110 +186,114 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for 00001-2-HAR-A-01\Design Rule Check - PCB-00001-A-01.html
+DocumentPath=..\PCB_Deliverables\1-BOM\00001-BOM_SPECS.xlsm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.DRR
+DocumentPath=Project Outputs for 00001-2-HAR-A-01\Design Rule Check - PCB-00001-A-01.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.EXTREP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBS
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GD1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GG1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GKO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GM32
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GM32
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP2
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPB
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTS
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.LDP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.REP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.RUL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\ExportSTEP\PCB-00001-A-01.step
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.TXT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\ExportSTEP\PCB-00001-A-01.step
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\BOM\Pick and Place-00001-2-HAR-A-01.csv
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.csv
+DocumentPath=..\PCB_Deliverables\2-Gerbers\BOM\Pick and Place-00001-2-HAR-A-01.csv
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.txt
 DItemRevisionGUID=
 
@@ -619,15 +623,15 @@ Configuration1_Item1=CaptionAsName
 Configuration1_Name2=ForceUpdateSettings
 Configuration1_Item2=False
 Configuration1_Name3=General
-Configuration1_Item3=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\PCB_Deliverables\1-BOM\BOM_template.xlsm|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Item3=OpenExported=True|AddToProject=True|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\PCB_Deliverables\1-BOM\BOM_template_1.xlsm|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration1_Name4=GroupOrder
 Configuration1_Item4=Comment=True|Footprint=True
 Configuration1_Name5=SortOrder
 Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration1_Name6=VisibleOrder
-Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|FIT/NFIT=100|Layer=100|Price=100|Price_1=100|Price_2=100
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|FIT/NFIT=100|Layer=100
 Configuration1_Name7=VisibleOrder_Flat
-Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|FIT/NFIT=100|Layer=100|Price=100|Price_1=100|Price_2=100
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|FIT/NFIT=100|Layer=100
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=

@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB-00001-A-01.PcbDoc   28-09-2024  00:47:05
+NCDrill File Report For: PCB-00001-A-01.PcbDoc   02-10-2024  22:04:27
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -11,7 +11,7 @@ T1      8mil (0.203mm)                                            Round         
 T2      12mil (0.3mm)                                             Round             145       PTH        29.94inch (760.49mm)
 T3      20mil (0.5mm)                                             Round             2         PTH        0.05inch (1.25mm)
 T4      30mil (0.762mm)                                           Round             14        PTH        3.57inch (90.55mm)
-T5      31mil (0.787mm)                                           Round             16        PTH        2.00inch (50.80mm)
+T5      31mil (0.78mm)                                            Round             16        PTH        2.03inch (51.44mm)
 T6      32mil (0.813mm)                                           Round             6         PTH        1.56inch (39.51mm)
 T7      34mil (0.864mm)                                           Round             2         PTH        0.20inch (5.00mm)
 T8      35mil (0.9mm)                                             Round             32        PTH        13.91inch (353.29mm)

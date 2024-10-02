@@ -4,9 +4,9 @@ D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\PCB_Deliverables\2-Gerbers\Pick Place\Pick Pl
 ========================================================================================================================
 File Design Information:
 
-Date:       28-09-24
-Time:       00:47
-Revision:   b7e9002f2b7c2308076b06523b7d7a9237889c9e
+Date:       02-10-24
+Time:       22:04
+Revision:   f296b77ad839be78281637c0d2dc54bc9c5944d6
 Variant:    No variations
 Units used: mm
 
@@ -15,7 +15,7 @@ Units used: mm
 "U7","ESP32-WROOM-32E-N4","TopLayer","ESP32­WROOM­32E_EXP","70.8406","61.3277","0","Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount"
 "U6","H11AA1","TopLayer","DIP762W50P254L730H410Q6","87.7570","46.6090","90","Optoisolator Transistor with Base Output 5000Vrms 1 Channel 6-DIP"
 "U5","ACS712ELCTR-20A-T","TopLayer","SOIC127P600X175-8N","106.8070","46.8630","180","Current Sensor 20A 1 Channel Hall Effect, Open Loop Bidirectional 8-SOIC (0.154", 3.90mm Width)"
-"U4","CD4017BE","TopLayer","N16","10.0330","23.8760","0","Counter IC Counter, Decade 1 Element 10 Bit Positive, Negative 16-PDIP"
+"U4","CD4017BE","TopLayer","DIP794W45P254L1969H508Q16","10.1930","23.8760","0","Counter IC Counter, Decade 1 Element 10 Bit Positive, Negative 16-PDIP"
 "U3","RP170N331D-TR-FE","TopLayer","SOT-23-5SC-74A_PE-SOT-23-5-180326_NMD-M","41.0040","57.1330","0","Linear Voltage Regulator IC Positive Fixed 1 Output 300mA SOT-23-5"
 "U2","BQ25170DSGR","TopLayer","DSG0008A","24.6760","37.8660","90","800-MA LINEAR BATTERY CHARGER FO"
 "U1","HLK-10M05","TopLayer","CONV_HLK-10M05","70.8479","23.3385","180","AC to DC Power Supply Module"
