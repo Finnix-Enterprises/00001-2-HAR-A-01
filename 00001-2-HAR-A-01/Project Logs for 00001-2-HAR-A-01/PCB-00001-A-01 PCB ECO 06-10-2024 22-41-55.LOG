@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLEX_530480210 New Footprint=CON_1053131102
+Change Component Comment : Designator=J1 Old Comment=0530480210 New Comment=1053131102
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLEX_530480210"; UniqueID = "\WTRNQGEK\USLWKCZZ\MBRIBKLL" ("\WTRNQGEK\USLWKCZZ\MBRIBKLL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/molex/1053131102/7693174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date drawn"; Value = "6/10/24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1 Part no."; Value = "WM16893-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drawn by"; Value = "Varun"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "?84.68"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price (Quantity)"; Value = "?58.42810(300+)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference(datasheet)"; Value = "https://tools.molex.com/pdm_docs/ps/PS-105300-100-001.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105313-1102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
