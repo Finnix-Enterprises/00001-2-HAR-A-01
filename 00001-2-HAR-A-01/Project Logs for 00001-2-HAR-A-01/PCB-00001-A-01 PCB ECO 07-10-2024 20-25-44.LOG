@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=LATCH_IN Pin=Q3-1
+Removed Pin From Net: NetName=SIM_EN Pin=Q4-1
+Removed Pin From Net: NetName=SIM_EN Pin=R18-1
+Removed Pin From Net: NetName=3V3VDC Pin=R18-2
+Removed Pin From Net: NetName=LATCH_IN Pin=R24-1
+Removed Pin From Net: NetName=3V3VDC Pin=R24-2
+Added Component: Designator=R27(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ101V/89678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date drawn"; Value = "1/9/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part no."; Value = "P100ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dranw by"; Value = "Varun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no."; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?8.38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (Quantity)"; Value = "?1.76020(100+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference(datasheet)"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9028505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-6GEYJ101V/89678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date drawn"; Value = "1/9/2024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part no."; Value = "P100ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dranw by"; Value = "Varun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no."; Value = "ERJ-6GEYJ101V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?8.38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (Quantity)"; Value = "?1.76020(100+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference(datasheet)"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9028505"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOP_PC8171_SCT-M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/sharp-socle-technology/PC81710NIP1B/7798258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date drawn"; Value = "05/07/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part no."; Value = "1855-1014-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dranw by"; Value = "Varun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHARP/Socle Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no."; Value = "PC81710NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?83.82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (Quantity)"; Value = "?39.43730(100+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference(datasheet)"; Value = "http://www.socle-tech.com/doc/IC%20Channel%20Product/Optoelectronic%20Components/Photocoupler/PC8171_NIP1B_ED-16P023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "852-PC81710NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOP_PC8171_SCT-M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.in/en/products/detail/sharp-socle-technology/PC81710NIP1B/7798258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date drawn"; Value = "05/07/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 1 Part no."; Value = "1855-1014-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dranw by"; Value = "Varun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHARP/Socle Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part no."; Value = "PC81710NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "?83.82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price (Quantity)"; Value = "?39.43730(100+)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference(datasheet)"; Value = "http://www.socle-tech.com/doc/IC%20Channel%20Product/Optoelectronic%20Components/Photocoupler/PC8171_NIP1B_ED-16P023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "852-PC81710NIP1B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verified by"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSYS Pin=R18-2
+Added Pin To Net: NetName=5V Pin=R24-2
+Added Pin To Net: NetName=3V3VDC Pin=R27-2
+Added Pin To Net: NetName=3V3VDC Pin=R28-2
+Added Pin To Net: NetName=SIM_EN Pin=U9-2
+Added Pin To Net: NetName=DGND Pin=U9-3
+Added Pin To Net: NetName=LATCH_IN Pin=U10-2
+Added Pin To Net: NetName=DGND Pin=U10-3
+Added Pin To Net: NetName=LATCH_IN1 Pin=Q3-1
+Added Pin To Net: NetName=LATCH_IN1 Pin=R24-1
+Added Pin To Net: NetName=LATCH_IN1 Pin=U10-4
+Added Net: Name=LATCH_IN1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U9-1
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=U10-1
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=SIM_EN1 Pin=Q4-1
+Added Pin To Net: NetName=SIM_EN1 Pin=R18-1
+Added Pin To Net: NetName=SIM_EN1 Pin=U9-4
+Added Net: Name=SIM_EN1
+Added Member To Class: ClassName=U_SCH-00001-AC-01 Member=Component R27 ERJ-6GEYJ101V
+Added Member To Class: ClassName=U_SCH-00001-AB-01 Member=Component R28 ERJ-6GEYJ101V
+Added Member To Class: ClassName=U_SCH-00001-AC-01 Member=Component U9 PC81710NIP1B
+Added Member To Class: ClassName=U_SCH-00001-AB-01 Member=Component U10 PC81710NIP1B
+Added Rule: Name=Schematic Supply Nets
