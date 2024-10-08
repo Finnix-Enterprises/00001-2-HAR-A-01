@@ -4,13 +4,17 @@ D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\PCB_Deliverables\2-Gerbers\Pick Place\Pick Pl
 ========================================================================================================================
 File Design Information:
 
-Date:       02-10-24
-Time:       22:04
-Revision:   f296b77ad839be78281637c0d2dc54bc9c5944d6
+Date:       08-10-24
+Time:       17:56
+Revision:   094d5465e9e101ed2e67da187a165d4884e1ade8
 Variant:    No variations
 Units used: mm
 
 Designator Comment            Layer       Footprint                               Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                             
+U10        PC81710NIP1B       TopLayer    SOP_PC8171_SCT-M                        64.8970      44.0690      270      "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"                                                                               
+U9         PC81710NIP1B       TopLayer    SOP_PC8171_SCT-M                        57.0230      44.1960      270      "Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"                                                                               
+R28        ERJ-6GEYJ101V      TopLayer    RES0805                                 70.5737      48.4759      0        "100 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"                                             
+R27        ERJ-6GEYJ101V      TopLayer    RES0805                                 49.5301      46.7359      180      "100 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"                                             
 U8         SIM800L            TopLayer    SIM800L-CORE                            14.9860      59.9570      90       "miniature cellular GSM modem"                                                                                                          
 U7         ESP32-WROOM-32E-N4 TopLayer    ESP32­WROOM­32E_EXP                     70.8406      61.3277      0        "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount" 
 U6         H11AA1             TopLayer    DIP762W50P254L730H410Q6                 87.7570      46.6090      90       "Optoisolator Transistor with Base Output 5000Vrms 1 Channel 6-DIP"                                                                     
@@ -38,13 +42,13 @@ RL2        SRD-05VDC-SL-C     TopLayer    RELAY_SRD-05VDC-SL-C                  
 RL1        SRD-05VDC-SL-C     TopLayer    RELAY_SRD-05VDC-SL-C                    112.1410     26.5270      270      "5V Trigger Relay Module"                                                                                                               
 R26        ERA-6AEB103V       TopLayer    RES0805                                 35.2720      52.4510      0        "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R25        ERA-6AEB103V       TopLayer    RES0805                                 52.0055      52.9685      0        "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
-R24        ERA-6AEB103V       TopLayer    RES0805                                 58.9550      48.7020      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
+R24        ERA-6AEB103V       TopLayer    RES0805                                 52.5781      43.4341      270      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R23        ERA-6AEB103V       TopLayer    RES0805                                 88.7729      60.9601      0        "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R22        ERA-6AEB103V       TopLayer    RES0805                                 88.7731      63.6269      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R21        ERA-6AEB103V       TopLayer    RES0805                                 46.6063      63.0337      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R20        ERA-6AEB103V       TopLayer    RES0805                                 46.6061      60.4938      0        "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R19        ERA-6AEB103V       TopLayer    RES0805                                 96.7400      50.2920      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
-R18        ERA-6AEB103V       TopLayer    RES0805                                 52.0081      58.0010      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
+R18        ERA-6AEB103V       TopLayer    RES0805                                 36.1951      41.6559      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R17        ERA-6AEB103V       TopLayer    RES0805                                 52.0081      60.4938      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R16        ERA-6AEB103V       TopLayer    RES0805                                 52.0036      55.4949      180      "10 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R15        ERJ-6GEYJ273V      TopLayer    RES0805                                 88.8070      56.1340      0        "27 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film"                                             
@@ -63,7 +67,7 @@ R3         ERJ-6GEYJ273V      TopLayer    RES0805                               
 R2         ERA-6AEB3830V      TopLayer    RES0805                                 24.8451      34.0559      180      "383 Ohms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film"                                            
 R1         DC103G9G           BottomLayer DC_USS                                  15.1930      3.6830       180      "NTC Thermistor 10k Bead, Epoxy"                                                                                                        
 Q4         DMG2301U-7         TopLayer    SOT23_DMG2301U_DIO                      9.9220       38.1610      90       "P-Channel 20 V 2.5A (Ta) 800mW (Ta) Surface Mount SOT-23-3"                                                                            
-Q3         DMG2301U-7         TopLayer    SOT23_DMG2301U_DIO                      65.9130      47.7520      0        "P-Channel 20 V 2.5A (Ta) 800mW (Ta) Surface Mount SOT-23-3"                                                                            
+Q3         DMG2301U-7         TopLayer    SOT23_DMG2301U_DIO                      71.5010      43.8150      270      "P-Channel 20 V 2.5A (Ta) 800mW (Ta) Surface Mount SOT-23-3"                                                                            
 Q2         BC548              TopLayer    TO-92-3L_5P33X5P2_ONS                   44.3230      43.5610      180      "Bipolar (BJT) Transistor NPN 30 V 100 mA 300MHz 500 mW Through Hole TO-92-3"                                                           
 Q1         BC557ATA           TopLayer    TO-92-3L_5P33X5P2_ONS                   19.1770      22.3520      180      "P-Channel 20 V 2.5A (Ta) 800mW (Ta) Surface Mount SOT-23-3"                                                                            
 LED3       "LS M676-Q2S1-1-Z" TopLayer    LEDM2214X140N                           3.0481       21.9371      90       "Standard LEDs - SMD Super Red, 633nm 224mcd, 20mA"                                                                                     
@@ -75,7 +79,7 @@ J5         1984617            TopLayer    PHOENIX_1984617                       
 J4         1984617            TopLayer    PHOENIX_1984617                         35.1510      66.9290      0        "2 Position Wire to Board Terminal Block Horizontal with Board 0.138" (3.50mm) Through Hole"                                            
 J3         TB003-500-P02BE    TopLayer    CUI_TB003-500-P02BE                     127.0400     65.0240      180      "2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"                                            
 J2         TB003-500-P02BE    TopLayer    CUI_TB003-500-P02BE                     124.3730     6.3500       0        "2 Position Wire to Board Terminal Block Horizontal with Board 0.197" (5.00mm) Through Hole"                                            
-J1         0530480210         BottomLayer MOLEX_530480210                         8.6260       6.0960       180      "Connector Header Through Hole, Right Angle 2 position 0.049" (1.25mm)"                                                                 
+J1         1053131102         BottomLayer CON_1053131102                          7.0050       3.4290       0        "Connector Header Through Hole, Right Angle 2 position 0.049" (1.25mm)"                                                                 
 IR1        TSOP38238          TopLayer    TSOP382                                 37.0840      3.3020       180      "Remote Receiver Sensor 38.0kHz 20m Through Hole"                                                                                       
 D1         BAT30CWFILM        TopLayer    SOT-323_2P2X1P35X1P3_STM-M              39.4990      50.8759      0        "Remote Receiver Sensor 38.0kHz 20m Through Hole"                                                                                       
 C13        08056D104KAT2A     TopLayer    CAP0805                                 8.9560       45.3390      180      "0.1 µF ±10% 6.3V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                             
