@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=DGND Pin=R1-1
+Removed Pin From Net: NetName=DGND Pin=R2-1
+Removed Pin From Net: NetName=DGND Pin=R3-1
+Removed Pin From Net: NetName=VSYS Pin=R4-2
+Removed Pin From Net: NetName=VSYS Pin=R5-2
+Removed Pin From Net: NetName=VSYS Pin=U2-8
+Removed Pin From Net: NetName=DGND Pin=U2-9
+Removed Pin From Net: NetName=DGND Pin=U2-9
+Removed Pin From Net: NetName=DGND Pin=U2-9
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=LED1
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=LED2
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=R1
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=R2
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=R3
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=R4
+Removed Member From Class: ClassName=U_SCH-00001-AB-01 Member=R5
+Change Component Footprint: Designator=U2 Old Footprint=DSG0008A New Footprint=TP5100_MODULE
+Change Component Comment : Designator=U2 Old Comment=BQ25170DSGR New Comment=TP5100
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DSG0008A"; UniqueID = "\WTRNQGEK\USLWKCZZ\GCGEGOAL" ("\WTRNQGEK\USLWKCZZ\GCGEGOAL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Reference Product Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://robu.in/product/tp5100-4-2v-8-4v-single-double-lithium-battery-charge-management-lion-battery-compatible-2a-charging-board/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date drawn"; Value = "10/07/24"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1"; Value = "ROBU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 1 Part no."; Value = "62296"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor 2 part no."; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drawn by"; Value = "Varun Chakravarthy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FIT/NFIT"; Value = "FIT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Tap ower ASIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part no."; Value = "TP5100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "?62"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price (Quantity)"; Value = "?62(100+)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference(datasheet)"; Value = "https://voltiq.ru/datasheets/TP5100-datashhet.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Charger Module"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=U2-2
+Added Pin To Net: NetName=VSYS Pin=U2-3
