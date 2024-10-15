@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : D:\GITHUB\GIT_HUB\00001-2-HAR-A-01\00001-2-HAR-A-01\PCB\PCB-00001-A-01.PcbDoc
-Date     : 11-10-2024
-Time     : 17:29:49
+Date     : 15-10-2024
+Time     : 09:06:49
 
-Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.25mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)

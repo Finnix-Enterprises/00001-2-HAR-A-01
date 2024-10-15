@@ -185,6 +185,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for 00001-2-HAR-A-01\00001-2-HAR-A-01-01.xlsm
 DItemRevisionGUID=
@@ -202,114 +236,126 @@ DocumentPath=Project Outputs for 00001-2-HAR-A-01\Design Rule Check - PCB-00001-
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-RoundHoles.TXT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-SlotHoles.TXT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.DRR
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.EXTREP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBS
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GD1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GG1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GKO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GM32
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP1
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP2
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPB
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GM32
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTO
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTS
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.LDP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.REP
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.RUL
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\ExportSTEP\PCB-00001-A-01.step
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.TXT
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.REP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\BOM\Pick and Place-00001-2-HAR-A-01.csv
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Gerber\PCB-00001-A-01.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.csv
+DocumentPath=..\PCB_Deliverables\2-Gerbers\ExportSTEP\PCB-00001-A-01.step
 DItemRevisionGUID=
 
 [GeneratedDocument32]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\NC Drill\PCB-00001-A-01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\BOM\Pick and Place-00001-2-HAR-A-01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.csv
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=..\PCB_Deliverables\2-Gerbers\Pick Place\Pick Place for PCB-00001-A-01.txt
 DItemRevisionGUID=
 
@@ -813,36 +859,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
